@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "中文"
-    url: /wetry/zh/list/
+    url: /pages/wetry/zh/list/
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "English"
-    url: /wetry/en/list/
+    url: /pages/wetry/en/list/
