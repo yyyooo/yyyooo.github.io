@@ -1,6 +1,6 @@
 ---
 layout: single
-category: Wetry en
+category: Wetry vi
 ---
 
 # Wetry Chào thế giới!
