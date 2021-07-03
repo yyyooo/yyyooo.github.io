@@ -3,43 +3,43 @@ layout: single
 category: Wetry en
 ---
 
-# Wetry hello world!
-Wetry是一个专用浏览器，用于方便访问weibo，zhihu等网站。其自带的翻译功能，能自动将网页内容翻译为所选定的语言。
-除此之外还能帮助用户快速输入中文（即使对中文一无所知），从而更方便与其他weibo，zhihu用户沟通交流。接下来，将简单介绍此app的功能和注意事项。若有问题，或者建议，欢迎在文章下方留言评论~
+Wetry is a dedicated browser for easy access to weibo and zhihu websites. Its built-in translation function can automatically translate web content into the selected language.
 
-## 1 网站自动翻译
-### 1.1 简介
+In addition, it can also help users quickly enter Chinese (even if they don't know anything about Chinese), which makes it easier to communicate with other weibo and zhihu users. Next, I will briefly introduce the functions of this app. If you have any questions or suggestions, please leave a comment at the bottom of the article~
+
+## 1 Website content auto translate function
+### 1.1 Introduction
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/11.jpg)
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/12.jpg)
 
-如上图所示，此app会自动将页面的大部分中文内容，翻译成所指定的语言。（需要联网，若网络环境较差，则可能翻译所需时间较长或者失败）
-### 1.2 按键说明
+As shown in the picture above, this app will automatically translate most of the Chinese content of the page into the specified language. (Need to be connected to the Internet, if the network environment is poor, the translation may take a long time or fail)
+### 1.2 Buttons Description
 
 #### 1.2.1 
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/19.png)
 
-刷新页面（若翻译失败，可通过刷新尝试重新翻译）
+Refresh the page (if the translation fails, you can try to translate again by refreshing)
 
 #### 1.2.2 
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/18.png)
 
-跳转到主页
+Jump to the homepage
 
 #### 1.2.3 
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/17.png)
 
-切换按键，快速切换为原文或者译文
+Switch button,quickly switch the content of the website to the original or translated text
 
-## 2 输入中文
+## 2 Helping Enter Chinese function
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/20.png)
 
-点击上图键盘按键，可唤出输入框，如下图
+Click the keyboard button in the picture above ,to call up the input box as shown in the picture below
 
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/9.jpg)
 
-当输入指定当前语言后，点击右边确认按键，稍等片刻后，输入框上方将显示所输入内容的中文译文，同时也会二次翻译，将中文内容翻译回当前语言，以便用户检查是否翻译有误。点击译文，即会自动将中文复制到剪贴板，以便后续使用。
+After inputting the text content, click the confirm button on the right. After a while, the Chinese translation of the input content will be displayed on the top of the input box. At the same time, the Chinese content will be translated back to the current language for the user to check whether the translation is incorrect. . Clicking on the translation will automatically copy the Chinese content to the clipboard for subsequent use.
+## 3 Other instructions
 
-## 3 其它说明
-
-### 3.1 安装其他翻译app（如google translator），即可以快捷方便地翻译所选中的文字内容，如下图所示
+### 3.1 Install other translation apps 
+Install other translation apps (such as google translator), you can quickly and easily translate the selected text content, as shown in the picture below
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/21.jpg)
