@@ -42,4 +42,5 @@ Sau khi nhập văn bản, hãy nhấp vào nút xác nhận ở bên phải. Sa
 
 ### 3.1 Cài đặt các ứng dụng dịch khác
 Cài đặt các ứng dụng dịch khác (chẳng hạn như google dịch), bạn có thể dịch nhanh chóng và dễ dàng nội dung văn bản đã chọn, như thể hiện trong hình bên dưới
+
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/22.jpg)

@@ -42,4 +42,5 @@ After inputting the text content, click the confirm button on the right. After a
 
 ### 3.1 Install other translation apps 
 Install other translation apps (such as google translator), you can quickly and easily translate the selected text content, as shown in the picture below
+
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/21.jpg)
