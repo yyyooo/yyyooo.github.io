@@ -2,6 +2,9 @@
 layout: single
 category: Wetry vi
 ---
+![image](https://yyyooo.github.io/assets/img/google-play-badge-vi.png)
+
+
 Wetry là một trình duyệt chuyên dụng để dễ dàng truy cập weibo, zhihu và các trang web khác. Chức năng dịch tích hợp của nó có thể tự động dịch nội dung web sang ngôn ngữ đã chọn.
 
 Ngoài ra, nó cũng có thể giúp người dùng nhập tiếng Trung nhanh chóng (ngay cả khi họ không biết gì về tiếng Trung), giúp giao tiếp với những người dùng weibo và zhihu khác dễ dàng hơn. Tiếp theo, mình sẽ giới thiệu sơ qua về các chức năng của ứng dụng này. Mọi thắc mắc và góp ý các bạn vui lòng để lại bình luận phía dưới bài viết nhé ~
