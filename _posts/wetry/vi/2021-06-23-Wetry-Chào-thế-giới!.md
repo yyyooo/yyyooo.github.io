@@ -8,6 +8,12 @@ category: Wetry vi
 Wetry là một trình duyệt chuyên dụng để dễ dàng truy cập weibo, zhihu và các trang web khác. Chức năng dịch tích hợp của nó có thể tự động dịch nội dung web sang ngôn ngữ đã chọn.
 
 Ngoài ra, điều thú vị nhất là với sự trợ giúp của ứng dụng Wetry, bạn có thể giao tiếp trực tiếp với người dùng trên weibo và zhihu (ngay cả khi bạn không biết gì về tiếng Trung) Nhờ có chức năng hỗ trợ nhập liệu tiếng Trung, bất kỳ ai cũng có thể nhập liệu tiếng Trung một cách nhanh chóng và dễ dàng. Tiếp theo, mình sẽ giới thiệu sơ qua về các chức năng của ứng dụng này. Mọi thắc mắc và góp ý các bạn vui lòng để lại bình luận phía dưới bài viết ~
+
+> weibo là một ứng dụng giống Twitter của Trung Quốc. Bạn không chỉ có thể nhận được những thông tin nóng hổi mới nhất về Trung Quốc mà còn có thể tiếp xúc với những người nổi tiếng ở mọi tầng lớp như giải trí, thể thao, công nghệ và bạn cũng có thể gặp gỡ nhiều bạn bè có cùng sở thích.
+
+> zhihu là một nền tảng trắc nghiệm kiến thức của Trung Quốc. Bạn có thể tìm thấy câu trả lời chuyên nghiệp và chi tiết cho tất cả các loại câu hỏi. Ngay cả khi đó là một câu hỏi vui, ai đó sẽ trả lời bạn một cách cẩn thận và kiên nhẫn. Ví dụ: "Khi nào thì bố mẹ em bảo gia đình mình có tài sản hàng trăm triệu?"
+
+
 ## 1 Dịch tự động nội dung trang web
 ### 1.1 Giới thiệu
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/5.jpg)

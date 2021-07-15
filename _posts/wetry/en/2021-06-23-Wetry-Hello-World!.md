@@ -7,6 +7,10 @@ category: Wetry en
 Wetry is a dedicated browser for easy access to weibo and zhihu websites. Its built-in translation function can automatically translate web content into the selected language.
 
 In addition, the most exciting thing is that with the help of the Wetry app, you can directly communicate with users on weibo and zhihu (even if you don’t know anything about Chinese). Thanks to the Chinese input assist function, anyone Both can input Chinese quickly and easily. Next, I will briefly introduce the functions of this app. If you have any questions or suggestions, please leave a comment at the bottom of the article~
+> weibo is a Chinese Twitter-like app. Not only can you get the latest hot information about China from it, you can also get in touch with celebrities from all walks of life such as entertainment, sports, and technology, and you can also meet more friends with similar interests.
+
+>zhihu is a Chinese knowledge quiz platform. You can find professional and detailed answers to all kinds of questions. Even if it is a funny question, someone will answer you carefully and patiently. For example: "When will my parents tell me that our family has hundreds of millions property?"
+
 ## 1 Website content auto translate function
 ### 1.1 Introduction
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/11.jpg)
