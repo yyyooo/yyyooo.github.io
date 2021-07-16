@@ -17,7 +17,8 @@ In addition, the most exciting thing is that with the help of the Wetry app, you
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/11.jpg)
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/12.jpg)
 
-As shown in the picture above, this app will automatically translate most of the Chinese content of the page into the specified language. (Need to be connected to the Internet, if the network environment is poor, the translation may take a long time or fail)
+As shown in the picture above, this app will automatically translate most of the Chinese content of the page into the specified language. (Need to connect to the Internet, if the network environment is poor, the translation may take a long time or fail. Note that when the app is opened for the first time, the initialization takes a long time, please wait patiently)
+
 ### 1.2 Buttons Description
 
 #### 1.2.1 

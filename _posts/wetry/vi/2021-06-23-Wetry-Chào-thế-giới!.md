@@ -20,7 +20,8 @@ Ngoài ra, điều thú vị nhất là với sự trợ giúp của ứng dụn
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/5.jpg)
 ![image](https://raw.githubusercontent.com/yyyooo/yyyooo.github.io/master/_posts/wetry/common/2021-06-23/6.jpg)
 
-Như trong hình trên, ứng dụng này sẽ tự động dịch hầu hết nội dung tiếng Trung của trang sang ngôn ngữ được chỉ định. (Cần kết nối Internet, nếu môi trường mạng kém sẽ rất lâu hoặc bị lỗi)
+Như trong hình trên, ứng dụng này sẽ tự động dịch hầu hết nội dung tiếng Trung của trang sang ngôn ngữ được chỉ định. (Cần kết nối Internet, nếu môi trường mạng kém thì bản dịch lâu hoặc bị lỗi. Lưu ý khi mở ứng dụng lần đầu, quá trình khởi tạo mất nhiều thời gian, vui lòng kiên nhẫn chờ đợi)
+
 ### 1.2 mô tả nút
 
 #### 1.2.1 
