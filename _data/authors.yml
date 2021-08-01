@@ -1,23 +1,23 @@
 JackeyD-vi:
-  name: "JackeyD"
+  name: ""
   #  bio: "What do you want, jewels? I am a very extravagant man."
   #  avatar: "/assets/images/bio-photo-2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yyyhelloa@outlook.com"
+      url: "mailto:yyyhelloa@outlook.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/groups/170677295004176"
 
 JackeyD:
-  name: "JackeyD"
+  name: ""
   #  bio: "What do you want, jewels? I am a very extravagant man."
   #  avatar: "/assets/images/bio-photo-2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yyyhelloa@outlook.com"
+      url: "mailto:yyyhelloa@outlook.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/Wetry-106541671718547"
