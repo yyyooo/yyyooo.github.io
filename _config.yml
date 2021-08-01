@@ -111,7 +111,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/groups/170677295004176"
+      # url: "https://www.facebook.com/groups/170677295004176"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -275,7 +275,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: #true
+      author_profile: true
       read_time: true
       comments: true # true
       share: true
