@@ -3,7 +3,7 @@ layout: single
 category: Wetry en
 author: JackeyD
 ---
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.0.5.apk)
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.10a.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
 
 Wetry is a dedicated browser for easy access to weibo and zhihu websites. Its built-in translation function can automatically translate web content into the selected language.
