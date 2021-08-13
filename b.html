@@ -4,7 +4,7 @@
 </head>
 
 <script>
-    navigator.serviceWorker.register('./sw.js',{scope: './b.html'}).then(function(reg) {
+    navigator.serviceWorker.register('./sw.js').then(function(reg) {
         // registration worked
         console.log('Registration succeeded. Scope is ' + reg.scope);
     }).catch(function(error) {
