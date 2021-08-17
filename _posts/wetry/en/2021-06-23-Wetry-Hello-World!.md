@@ -12,7 +12,7 @@ Wetry is a dedicated browser for easy access to weibo and zhihu websites. Its bu
 
 In addition, the most exciting thing is that with the help of the Wetry app, you can directly communicate with users on weibo and zhihu (even if you don’t know anything about Chinese). Thanks to the Chinese input assist function, anyone Both can input Chinese quickly and easily. Next, I will briefly introduce the functions of this app.
 
->You can use the search and browse functions of Weibo and Zhihu without registering and logging in. Follow, comment, favorites and other functions require registration and login. For most overseas mobile phone numbers, registration may fail. If it fails, it is recommended to use China, Hong Kong, and Macau mobile phone numbers to register.
+>No need to register and log in, you can use Weibo and Zhihu's search and browsing functions without limitation. Follow, comment, favorites and other functions still require registration and login. For most overseas mobile phone numbers, registration may fail. If it fails, it is recommended to use China, Hong Kong, and Macau mobile phone numbers to register.
 
 >Weibo is a Chinese Twitter-like app. Not only can you get the latest hot information about China from it, you can also get in touch with celebrities from all walks of life such as entertainment, sports, and technology, and you can also meet more friends with similar interests.
 

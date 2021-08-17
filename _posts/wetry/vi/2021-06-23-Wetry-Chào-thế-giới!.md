@@ -12,7 +12,7 @@ Wetry là một trình duyệt chuyên dụng để dễ dàng truy cập weibo,
 
 Ngoài ra, điều thú vị nhất là với sự trợ giúp của ứng dụng Wetry, bạn có thể giao tiếp trực tiếp với người dùng trên weibo và zhihu (ngay cả khi bạn không biết gì về tiếng Trung) Nhờ có chức năng hỗ trợ nhập liệu tiếng Trung, bất kỳ ai cũng có thể nhập liệu tiếng Trung một cách nhanh chóng và dễ dàng. Tiếp theo, mình sẽ giới thiệu sơ qua về các chức năng của ứng dụng này. 
 
-> Bạn có thể sử dụng chức năng tìm kiếm và duyệt của Weibo và Zhihu mà không cần đăng ký và đăng nhập. Theo dõi, bình luận, yêu thích và các chức năng khác yêu cầu đăng ký và đăng nhập. Đối với hầu hết các số điện thoại di động ở nước ngoài, việc đăng ký có thể không thành công. Nếu không thành công, bạn nên sử dụng số điện thoại di động của Trung Quốc, Hồng Kông và Ma Cao để đăng ký.
+> Không cần đăng ký và đăng nhập, bạn có thể sử dụng không giới hạn các chức năng tìm kiếm và duyệt của Weibo và Zhihu. Theo dõi, bình luận, yêu thích và các chức năng khác vẫn yêu cầu đăng ký và đăng nhập. Đối với hầu hết các số điện thoại di động ở nước ngoài, việc đăng ký có thể không thành công. Nếu không thành công, bạn nên sử dụng số điện thoại di động của Trung Quốc, Hồng Kông và Ma Cao để đăng ký.
 
 > Weibo là một ứng dụng giống Twitter của Trung Quốc. Bạn không chỉ có thể nhận được những thông tin nóng hổi mới nhất về Trung Quốc mà còn có thể tiếp xúc với những người nổi tiếng ở mọi tầng lớp như giải trí, thể thao, công nghệ và bạn cũng có thể gặp gỡ nhiều bạn bè có cùng sở thích.
 
