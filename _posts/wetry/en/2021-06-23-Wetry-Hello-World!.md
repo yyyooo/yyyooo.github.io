@@ -3,7 +3,7 @@ layout: single
 category: Wetry en
 author: JackeyD
 ---
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.10a.apk)
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.11.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
 
 >Please follow [Facebook (Wetry)](https://www.facebook.com/Wetry-106541671718547) provide your feedback and valuable suggestions~
@@ -11,9 +11,12 @@ author: JackeyD
 Wetry is a dedicated browser for easy access to weibo and zhihu websites. Its built-in translation function can automatically translate web content into the selected language.
 
 In addition, the most exciting thing is that with the help of the Wetry app, you can directly communicate with users on weibo and zhihu (even if you don’t know anything about Chinese). Thanks to the Chinese input assist function, anyone Both can input Chinese quickly and easily. Next, I will briefly introduce the functions of this app.
-> weibo is a Chinese Twitter-like app. Not only can you get the latest hot information about China from it, you can also get in touch with celebrities from all walks of life such as entertainment, sports, and technology, and you can also meet more friends with similar interests.
 
->zhihu is a Chinese knowledge quiz platform. You can find professional and detailed answers to all kinds of questions. Even if it is a funny question, someone will answer you carefully and patiently. For example: "When will my parents tell me that our family has hundreds of millions property?"
+>You can use the search and browse functions of Weibo and Zhihu without registering and logging in. For most overseas mobile phone numbers, registration may fail. If it fails, it is recommended to use China, Hong Kong, and Macau mobile phone numbers to register.
+
+>Weibo is a Chinese Twitter-like app. Not only can you get the latest hot information about China from it, you can also get in touch with celebrities from all walks of life such as entertainment, sports, and technology, and you can also meet more friends with similar interests.
+
+>Zhihu is a Chinese knowledge quiz platform. You can find professional and detailed answers to all kinds of questions. Even if it is a funny question, someone will answer you carefully and patiently. For example: "When will my parents tell me that our family has hundreds of millions property?"
 
 ## 1 Website content auto translate function
 ### 1.1 Introduction
