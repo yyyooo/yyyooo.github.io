@@ -3,7 +3,7 @@ layout: single
 category: Wetry en
 author: JackeyD
 ---
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.11.apk)
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.12.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
 
 >Please follow [Facebook (Wetry)](https://www.facebook.com/Wetry-106541671718547) provide your feedback and valuable suggestions~
@@ -12,7 +12,7 @@ Wetry is a dedicated browser for easy access to weibo and zhihu websites. Its bu
 
 In addition, the most exciting thing is that with the help of the Wetry app, you can directly communicate with users on weibo and zhihu (even if you don’t know anything about Chinese). Thanks to the Chinese input assist function, anyone Both can input Chinese quickly and easily. Next, I will briefly introduce the functions of this app.
 
->No need to register and log in, you can use Weibo and Zhihu's search and browsing functions without limitation. Follow, comment, favorites and other functions still require registration and login. For most overseas mobile phone numbers, registration may fail. If it fails, it is recommended to use China, Hong Kong, and Macau mobile phone numbers to register.
+>No need to register and log in, you can use Weibo and Zhihu's search and browsing functions without limitation. As Weibo restricts some non-Chinese mobile phone numbers, it is best to log in through the Weibo app by scanning the code, and the Weibo app recommends logging in through Wechat, because Wechat supports overseas mobile phone registration.
 
 >Weibo is a Chinese Twitter-like app. Not only can you get the latest hot information about China from it, you can also get in touch with celebrities from all walks of life such as entertainment, sports, and technology, and you can also meet more friends with similar interests.
 
