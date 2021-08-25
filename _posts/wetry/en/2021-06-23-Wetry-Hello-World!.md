@@ -3,7 +3,7 @@ layout: single
 category: Wetry en
 author: JackeyD
 ---
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.12.apk)
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.13.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
 
 >Please follow [Facebook (Wetry)](https://www.facebook.com/Wetry-106541671718547) provide your feedback and valuable suggestions~

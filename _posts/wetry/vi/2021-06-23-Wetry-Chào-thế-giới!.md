@@ -3,7 +3,7 @@ layout: single
 category: Wetry vi
 author: JackeyD-vi
 ---
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.12.apk)
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.13.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-vi-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
 
 > Hãy tham gia [Nhóm Facebook(Wetry)](https://www.facebook.com/groups/170677295004176), cung cấp phản hồi và đề xuất có giá trị của bạn~
