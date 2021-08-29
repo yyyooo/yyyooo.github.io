@@ -8,7 +8,7 @@ author: JackeyD-vi
 
 > Hãy tham gia [Nhóm Facebook(Wetry)](https://www.facebook.com/groups/170677295004176), cung cấp phản hồi và đề xuất có giá trị của bạn~
 
-> Trên youtube mình thấy có [hướng dẫn đăng ký weibo](https://www.youtube.com/watch?v=To9qlLKrHUE) (không phải do mình đăng), các bạn có thể tham khảo và thử
+> Trên youtube mình thấy có [hướng dẫn đăng ký weibo](https://www.youtube.com/watch?v=Bee4ZhChidk) (không phải do mình đăng), các bạn có thể tham khảo và thử
 
 Wetry là một trình duyệt chuyên dụng để dễ dàng truy cập weibo, zhihu và các trang web khác. Chức năng dịch tích hợp của nó có thể tự động dịch nội dung web sang ngôn ngữ đã chọn.
 
