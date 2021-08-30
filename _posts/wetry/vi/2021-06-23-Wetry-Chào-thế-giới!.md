@@ -5,7 +5,7 @@ author: JackeyD-vi
 ---
 [![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.14.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-vi-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
----
+
 [![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://play.google.com/store/apps/details?id=com.sina.weibo)
 [![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://play.google.com/store/apps/details?id=com.zhihu.android)
 [![image](https://yyyooo.github.io/assets/img/wechat_download.png)](https://play.google.com/store/apps/details?id=com.tencent.mm)
@@ -18,7 +18,7 @@ author: JackeyD-vi
 > Video hướng dẫn đăng ký WeChat
 > - [Wechat 2021 đăng ký không cần xác minh mã QR ( tỷ lệ thành công cao)](https://www.youtube.com/watch?v=OIBrn6uf7fE)
 > - [FULL : Cách Đăng Ký WeChat Không Quét Mã QR thành công 100% .Mẹo Bỏ Qua Mã QR Khi Đăng Ký Wechat](https://www.youtube.com/watch?v=CHstCptQrk0)
-> - [Cách tạo wechat không quét mã QR mới nhất 2021 | Rin gamer](https://www.youtube.com/watch?v=acsEFntH50E)
+> - [Cách tạo wechat không quét mã QR mới nhất 2021](https://www.youtube.com/watch?v=acsEFntH50E)
 >
 > Video hướng dẫn đăng nhập Weibo qua WeChat
 > - [Cách tạo tài khoản Weibo Trung Quốc không đăng ký được số điện thoại Việt Nam, chỉ wechat và QQ](https://www.youtube.com/watch?v=g3nDcHNKfzI)
