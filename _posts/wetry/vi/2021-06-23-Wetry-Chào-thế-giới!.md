@@ -5,20 +5,34 @@ author: JackeyD-vi
 ---
 [![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.14.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-vi-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
+---
+[![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://play.google.com/store/apps/details?id=com.sina.weibo)
+[![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://play.google.com/store/apps/details?id=com.zhihu.android)
+[![image](https://yyyooo.github.io/assets/img/wechat_download.png)](https://play.google.com/store/apps/details?id=com.tencent.mm)
+
+> Sau đây là tập hợp các hướng dẫn đăng ký và đăng nhập (không phải do tôi phát hành)
+>
+> Video hướng dẫn đăng ký Weibo
+> - [Hướng dẫn đăng kí tài khoản Weibo 2021 - 100% thành công](https://www.youtube.com/watch?v=To9qlLKrHUE)
+>
+> Video hướng dẫn đăng ký WeChat
+> - [Wechat 2021 đăng ký không cần xác minh mã QR ( tỷ lệ thành công cao)](https://www.youtube.com/watch?v=OIBrn6uf7fE)
+> - [FULL : Cách Đăng Ký WeChat Không Quét Mã QR thành công 100% .Mẹo Bỏ Qua Mã QR Khi Đăng Ký Wechat](https://www.youtube.com/watch?v=CHstCptQrk0)
+> - [Cách tạo wechat không quét mã QR mới nhất 2021 | Rin gamer](https://www.youtube.com/watch?v=acsEFntH50E)
+>
+> Video hướng dẫn đăng nhập Weibo qua WeChat
+> - [Cách tạo tài khoản Weibo Trung Quốc không đăng ký được số điện thoại Việt Nam, chỉ wechat và QQ](https://www.youtube.com/watch?v=g3nDcHNKfzI)
+> 
+> [Giúp quét mã QR WeChat(nhóm facebook)](https://www.facebook.com/groups/204499301202568/)
+
 
 > Hãy tham gia [Nhóm Facebook(Wetry)](https://www.facebook.com/groups/170677295004176), cung cấp phản hồi và đề xuất có giá trị của bạn~
-
-> Trên youtube mình thấy có [hướng dẫn đăng ký weibo](https://www.youtube.com/watch?v=Bee4ZhChidk) (không phải do mình đăng), các bạn có thể tham khảo và thử
 
 Wetry là một trình duyệt chuyên dụng để dễ dàng truy cập weibo, zhihu và các trang web khác. Chức năng dịch tích hợp của nó có thể tự động dịch nội dung web sang ngôn ngữ đã chọn.
 
 Ngoài ra, điều thú vị nhất là với sự trợ giúp của ứng dụng Wetry, bạn có thể giao tiếp trực tiếp với người dùng trên weibo và zhihu (ngay cả khi bạn không biết gì về tiếng Trung) Nhờ có chức năng hỗ trợ nhập liệu tiếng Trung, bất kỳ ai cũng có thể nhập liệu tiếng Trung một cách nhanh chóng và dễ dàng. Tiếp theo, mình sẽ giới thiệu sơ qua về các chức năng của ứng dụng này. 
 
 > Không cần đăng ký và đăng nhập, bạn có thể sử dụng không giới hạn các chức năng tìm kiếm và duyệt của Weibo và Zhihu. 
-> Vì Weibo hạn chế một số số điện thoại di động không phải của Trung Quốc.
-> Tốt nhất là đăng nhập thông qua ứng dụng Weibo bằng cách quét mã.
-> Ứng dụng Weibo khuyên bạn nên đăng nhập qua Wechat.
-> Vì Wechat hỗ trợ đăng ký điện thoại di động ở nước ngoài.
 
 > Weibo là một ứng dụng giống Twitter của Trung Quốc. Bạn không chỉ có thể nhận được những thông tin nóng hổi mới nhất về Trung Quốc mà còn có thể tiếp xúc với những người nổi tiếng ở mọi tầng lớp như giải trí, thể thao, công nghệ và bạn cũng có thể gặp gỡ nhiều bạn bè có cùng sở thích.
 
