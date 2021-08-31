@@ -3,7 +3,7 @@ layout: single
 category: Wetry vi
 author: JackeyD-vi
 ---
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.14.apk)
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.15.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-vi-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
 
 [![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://play.google.com/store/apps/details?id=com.sina.weibo)
