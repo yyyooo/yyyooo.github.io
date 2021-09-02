@@ -4,14 +4,20 @@ category: Wetry vi
 author: JackeyD-vi
 ---
 >Tải xuống ứng dụng Wetry
+
 [![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/assets/apk/wetry.1.16.apk)
 [![image](https://yyyooo.github.io/assets/img/google-play-badge-vi-mini.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
+
 ***
+
 >Tải xuống wechat và các ứng dụng khác
+
 [![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://play.google.com/store/apps/details?id=com.sina.weibo)
 [![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://play.google.com/store/apps/details?id=com.zhihu.android)
 [![image](https://yyyooo.github.io/assets/img/wechat_download.png)](https://play.google.com/store/apps/details?id=com.tencent.mm)
+
 ***
+
 > Sau đây là tập hợp các hướng dẫn đăng ký và đăng nhập (không phải do tôi phát hành)
 >
 > Video hướng dẫn đăng ký Weibo
