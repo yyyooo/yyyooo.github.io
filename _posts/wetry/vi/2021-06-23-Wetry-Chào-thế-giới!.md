@@ -3,14 +3,14 @@ layout: single
 category: Wetry vi
 author: JackeyD-vi
 ---
-#### Tải xuống ứng dụng Wetry.
+#### Tải xuống ứng dụng Wetry
 
 [![image](https://yyyooo.github.io/assets/img/download.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
 
 
 ***
 
-#### Tải xuống wechat và các ứng dụng khác.
+#### Tải xuống Weibo, Zhihu và các ứng dụng khác
 
 [![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://play.google.com/store/apps/details?id=com.sina.weibo)
 [![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://play.google.com/store/apps/details?id=com.zhihu.android)
