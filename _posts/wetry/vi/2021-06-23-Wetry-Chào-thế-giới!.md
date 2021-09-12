@@ -3,6 +3,20 @@ layout: single
 category: Wetry vi
 author: JackeyD-vi
 ---
+#### Tải xuống ứng dụng Wetry.
+
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
+
+
+***
+
+#### Tải xuống wechat và các ứng dụng khác.
+
+[![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://play.google.com/store/apps/details?id=com.sina.weibo)
+[![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://play.google.com/store/apps/details?id=com.zhihu.android)
+[![image](https://yyyooo.github.io/assets/img/wechat_download.png)](https://play.google.com/store/apps/details?id=com.tencent.mm)
+
+***
 
 > #### Video hướng dẫn sử dụng Wetry
 > - [Đăng nhập Weibo bằng cách quét mã](https://youtu.be/bhKc9mvevx8)
@@ -22,21 +36,6 @@ author: JackeyD-vi
 > - [Giúp quét mã QR WeChat(nhóm facebook)](https://www.facebook.com/groups/204499301202568/)
 
 > Hãy tham gia [Nhóm Facebook(Wetry)](https://www.facebook.com/groups/170677295004176), cung cấp phản hồi và đề xuất có giá trị của bạn~
-
-***
-#### Tải xuống ứng dụng Wetry
-
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
-
-
-***
-
-#### Tải xuống wechat và các ứng dụng khác
-
-[![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://play.google.com/store/apps/details?id=com.sina.weibo)
-[![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://play.google.com/store/apps/details?id=com.zhihu.android)
-[![image](https://yyyooo.github.io/assets/img/wechat_download.png)](https://play.google.com/store/apps/details?id=com.tencent.mm)
-
 
 Wetry là một trình duyệt chuyên dụng để dễ dàng truy cập weibo, zhihu và các trang web khác. Chức năng dịch tích hợp của nó có thể tự động dịch nội dung web sang ngôn ngữ đã chọn.
 
