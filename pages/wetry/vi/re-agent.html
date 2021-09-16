@@ -7,7 +7,7 @@
     if (navigator.userAgent.indexOf("Bytedance") < 0) {
         let href = window.location.href;
         let target = href.substr(href.indexOf("?")).replace("?target=", "");
-        window.location.replace(decodeURI(target));
+        window.location.replace(decodeURIComponent(target));
     }
 </script>
 

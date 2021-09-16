@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+
+<script>
+    if (navigator.userAgent.indexOf("Bytedance") < 0) {
+        let href = window.location.href;
+        let target = href.substr(href.indexOf("?")).replace("?target=", "");
+        window.location.replace(decodeURIComponent(target));
+    }
+</script>
+
+<body style="
+    width: 100%;
+    height: 800px;
+">
+<div style="
+        top: 50%;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        font-size: 45px;
+        color: dimgrey;
+        font-weight: bold;
+        ">Please open from the browser, and then download or perform other operations.
+</div>
+
+<img src="https://yyyooo.github.io/assets/img/share-icon.png" style="
+        float: right;
+        width: 25%;
+        opacity: 0.5;
+        margin-right: 20px;
+    "/>
+
+</body>
+</html>

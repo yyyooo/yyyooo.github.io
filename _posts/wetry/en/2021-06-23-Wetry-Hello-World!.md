@@ -6,16 +6,16 @@ author: JackeyD
 
 >Wetry app download
 
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://play.google.com/store/apps/details?id=com.yooohooo.wetry)
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?target=https%3A%2F%2Fyyyooo.github.io%2Fassets%2Fapk%2Fwetry.1.17.apk)
 
 
 ***
 
 >Other app download
 
-[![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://play.google.com/store/apps/details?id=com.sina.weibo)
-[![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://play.google.com/store/apps/details?id=com.zhihu.android)
-[![image](https://yyyooo.github.io/assets/img/wechat_download.png)](https://play.google.com/store/apps/details?id=com.tencent.mm)
+[![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?target=https%3A%2F%2F1drv.ms%2Fu%2Fs!AjBGgBYgMfQGbJJCQx8HPYYueN4%3Fe%3D3UPpEG)
+[![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?target=https%3A%2F%2F1drv.ms%2Fu%2Fs!AjBGgBYgMfQGa6TEdYMiMvXyf8s%3Fe%3DRVgKZn)
+[![image](https://yyyooo.github.io/assets/img/wechat_download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?target=https%3A%2F%2F1drv.ms%2Fu%2Fs!AjBGgBYgMfQGcbdPakhy9OKTnN0%3Fe%3Du6gebQ)
 
 ***
 
