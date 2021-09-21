@@ -8,7 +8,6 @@ author: JackeyD
 
 [![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?name=wetry&target=https%3A%2F%2Fyyyooo.github.io%2Fassets%2Fapk%2Fwetry.1.17.apk)
 
-
 ***
 
 >Other app download
