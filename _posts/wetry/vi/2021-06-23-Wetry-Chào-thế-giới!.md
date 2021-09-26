@@ -4,9 +4,9 @@ category: Wetry vi
 author: JackeyD-vi
 ---
 
-> Zalo Group: https://zalo.me/g/sauvho487
+> [Zalo Group (Bấm để tham gia)](https://zalo.me/g/sauvho487)
 >
-> Facebook Group: https://www.facebook.com/groups/170677295004176/
+> [Facebook Group (Bấm để tham gia)](https://www.facebook.com/groups/170677295004176/)
 
 #### Tải xuống từ địa phương
 
