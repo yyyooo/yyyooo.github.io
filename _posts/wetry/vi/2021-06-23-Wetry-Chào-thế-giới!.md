@@ -3,6 +3,11 @@ layout: single
 category: Wetry vi
 author: JackeyD-vi
 ---
+
+> Zalo Group: https://zalo.me/g/sauvho487
+>
+> Facebook Group: https://www.facebook.com/groups/170677295004176/
+
 #### Tải xuống từ địa phương
 
 [![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/pages/wetry/vi/re-agent.html?name=wetry&target=https%3A%2F%2Fyyyooo.github.io%2Fassets%2Fapk%2Fwetry.1.17.apk)
@@ -37,8 +42,6 @@ author: JackeyD-vi
 >   - [Cách tạo tài khoản Weibo Trung Quốc không đăng ký được số điện thoại Việt Nam, chỉ wechat và QQ](https://www.youtube.com/watch?v=g3nDcHNKfzI)
 > 
 > - [Giúp quét mã QR WeChat(nhóm facebook)](https://www.facebook.com/groups/204499301202568/)
-
-> Hãy tham gia [Nhóm Facebook(Wetry)](https://www.facebook.com/groups/170677295004176), cung cấp phản hồi và đề xuất có giá trị của bạn~
 
 Wetry là một trình duyệt chuyên dụng để dễ dàng truy cập weibo, zhihu và các trang web khác. Chức năng dịch tích hợp của nó có thể tự động dịch nội dung web sang ngôn ngữ đã chọn.
 
