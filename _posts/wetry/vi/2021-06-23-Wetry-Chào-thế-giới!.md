@@ -4,7 +4,7 @@ category: Wetry vi
 author: JackeyD-vi
 ---
 
-> [Zalo Group (Bấm để tham gia)](https://zalo.me/g/sauvho487)
+> [Zalo Group (Bấm để tham gia)](https://zalo.me/g/zzhfef803)
 >
 > [Facebook Group (Bấm để tham gia)](https://www.facebook.com/groups/170677295004176/)
 
