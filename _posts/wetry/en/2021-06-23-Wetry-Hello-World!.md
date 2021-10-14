@@ -4,6 +4,9 @@ category: Wetry en
 author: JackeyD
 ---
 
+> [Facebook](https://www.facebook.com/Wetry-106541671718547)
+
+
 #### Download local
 
 [![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?name=wetry&target=https%3A%2F%2Fyyyooo.github.io%2Fassets%2Fapk%2Fwetry.1.19.apk)
@@ -22,7 +25,10 @@ author: JackeyD
 
 ***
 
->Please follow [Facebook (Wetry)](https://www.facebook.com/Wetry-106541671718547) provide your feedback and valuable suggestions~
+> #### Wetry app official video tutorial
+> - [Scan the QR code to log in to Weibo](https://youtu.be/48Dn4JsIVH0)
+>
+
 
 Wetry is a dedicated browser for easy access to weibo and zhihu websites. Its built-in translation function can automatically translate web content into the selected language.
 

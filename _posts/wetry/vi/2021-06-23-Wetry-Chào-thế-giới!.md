@@ -27,7 +27,7 @@ author: JackeyD-vi
 ***
 
 > #### Video hướng dẫn sử dụng Wetry
-> - [Đăng nhập Weibo bằng cách quét mã](https://youtu.be/J1bcHjjGyIY)
+> - [Đăng nhập Weibo bằng cách quét mã](https://youtu.be/2YK04Bupfi4)
 >
 > #### Các bài hướng dẫn liên quan khác (không phải do mình đăng)
 > - Video hướng dẫn đăng ký Weibo
