@@ -9,7 +9,7 @@ author: JackeyD
 
 #### Download local
 
-[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?name=wetry&target=https%3A%2F%2Fyyyooo.github.io%2Fassets%2Fapk%2Fwetry.1.19.apk)
+[![image](https://yyyooo.github.io/assets/img/download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?name=wetry&target=https%3A%2F%2Fyyyooo.github.io%2Fassets%2Fapk%2Fwetry.1.21.apk)
 [![image](https://yyyooo.github.io/assets/img/weibo_download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?name=weibo&target=https%3A%2F%2F1drv.ms%2Fu%2Fs!AjBGgBYgMfQGbJJCQx8HPYYueN4%3Fe%3D3UPpEG)
 [![image](https://yyyooo.github.io/assets/img/zhihu_download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?name=zhihu&target=https%3A%2F%2F1drv.ms%2Fu%2Fs!AjBGgBYgMfQGa6TEdYMiMvXyf8s%3Fe%3DRVgKZn)
 [![image](https://yyyooo.github.io/assets/img/wechat_download.png)](https://yyyooo.github.io/pages/wetry/en/re-agent.html?name=wechat&target=https%3A%2F%2F1drv.ms%2Fu%2Fs!AjBGgBYgMfQGcbdPakhy9OKTnN0%3Fe%3Du6gebQ)
