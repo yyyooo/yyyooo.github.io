@@ -4,9 +4,9 @@ category: Wetry en
 author: JackeyD
 ---
 
->Download and install the Wetry app, you can browse Weibo and Zhihu content in Wetry (Automatic translation) 
+>Just download and install the Wetry app, you can browse Weibo and Zhihu content in Wetry (Automatic translation) 
 >
->To log in to Weibo and Zhihu, please refer to [Tutorial Video](#Wetry app official video tutorial)
+>To log in to Weibo and Zhihu, please refer to [Tutorial Video](#wetry-app-official-video-tutorial)
 >
 >Tham gia nhóm và giao tiếp với nhau:
 >

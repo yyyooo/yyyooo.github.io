@@ -4,9 +4,9 @@ category: Wetry vi
 author: JackeyD-vi
 ---
 
->Tải xuống và cài đặt ứng dụng Wetry, đồng thời bạn có thể duyệt nội dung Weibo và Zhihu trong Wetry (được dịch tự động) 
+>Chỉ cần tải xuống và cài đặt ứng dụng Wetry, bạn có thể duyệt nội dung Weibo và Zhihu trong Wetry (Bản dịch tự động) 
 >
->Nếu bạn cần đăng nhập Weibo và zhihu, vui lòng tham khảo [Video hướng dẫn](#Video)
+>Nếu bạn cần đăng nhập Weibo và zhihu, vui lòng tham khảo [Video hướng dẫn](#video)
 >
 >Tham gia nhóm và giao tiếp với nhau:
 >
