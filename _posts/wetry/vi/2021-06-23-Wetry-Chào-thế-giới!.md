@@ -4,6 +4,12 @@ category: Wetry vi
 author: JackeyD-vi
 ---
 
+>Tải xuống và cài đặt ứng dụng Wetry, đồng thời bạn có thể duyệt nội dung Weibo và Zhihu trong Wetry (được dịch tự động) 
+>
+>Nếu bạn cần đăng nhập Weibo và zhihu, vui lòng tham khảo [Video hướng dẫn](#Video)
+>
+>Tham gia nhóm và giao tiếp với nhau:
+>
 > [Zalo Group (Bấm để tham gia)](https://zalo.me/g/zzhfef803)
 >
 > [Facebook Group (Bấm để tham gia)](https://www.facebook.com/groups/170677295004176/)
@@ -25,7 +31,7 @@ author: JackeyD-vi
 
 
 ***
-
+> ## Video
 > #### Video hướng dẫn sử dụng Wetry
 > - [Đăng nhập Weibo bằng cách quét mã](https://youtu.be/2YK04Bupfi4)
 >

@@ -4,6 +4,12 @@ category: Wetry en
 author: JackeyD
 ---
 
+>Download and install the Wetry app, you can browse Weibo and Zhihu content in Wetry (Automatic translation) 
+>
+>To log in to Weibo and Zhihu, please refer to [Tutorial Video](#Wetry app official video tutorial)
+>
+>Tham gia nhóm và giao tiếp với nhau:
+>
 > [Facebook](https://www.facebook.com/Wetry-106541671718547)
 
 
