@@ -4,13 +4,18 @@ category: Wetry en
 author: JackeyD
 ---
 
->Just download and install the Wetry app, you can browse Weibo and Zhihu content in Wetry (Automatic translation) 
->
->To log in to Weibo and Zhihu, please refer to [Tutorial Video](#wetry-app-official-video-tutorial)
->
->Tham gia nhóm và giao tiếp với nhau:
+>Join the group and communicate with each other:
 >
 > [Facebook](https://www.facebook.com/Wetry-106541671718547)
+>
+>Just download and install the Wetry app, you can browse Weibo and Zhihu content in Wetry (automatic translation, no need to log in to Weibo and Zhihu account) 
+>
+>Follow and Comment functions need to log in to Weibo and Zhihu accounts:
+>1. It is best to download and install the WeChat app first, and then register a WeChat account
+>2. Log in to Weibo app through WeChat account
+>3. In the Weibo app, scan the Wetry app QR code to log in to the Weibo account
+>4. Please refer to related [Tutorial Video](#wetry-app-official-video-tutorial)
+>5. Log in Zhihu account in the same way
 
 
 #### Download local

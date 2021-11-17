@@ -4,15 +4,21 @@ category: Wetry vi
 author: JackeyD-vi
 ---
 
->Chỉ cần [tải xuống và cài đặt ứng dụng Wetry](#tải-xuống-từ-địa-phương), bạn có thể duyệt nội dung Weibo và Zhihu trong Wetry (Bản dịch tự động) 
->
->Nếu bạn cần đăng nhập Weibo và zhihu, vui lòng tham khảo [Video hướng dẫn](#video)
->
 >Tham gia nhóm và giao tiếp với nhau:
 >
 > [Zalo Group (Bấm để tham gia)](https://zalo.me/g/zzhfef803)
 >
 > [Facebook Group (Bấm để tham gia)](https://www.facebook.com/groups/170677295004176/)
+>
+>Chỉ cần [tải xuống và cài đặt ứng dụng Wetry](#tải-xuống-từ-địa-phương), bạn có thể duyệt nội dung Weibo và Zhihu trong ứng dụng Wetry (được dịch tự động, không cần đăng nhập Weibo và Zhihu)
+>
+>Chức năng theo dõi và bình luận cần đăng nhập tài khoản Weibo và Zhihu:
+>1. Tốt nhất là tải xuống và cài đặt ứng dụng WeChat trước, sau đó đăng ký tài khoản WeChat
+>2. Đăng nhập vào ứng dụng Weibo thông qua tài khoản WeChat
+>3. Trong ứng dụng Weibo, quét mã QR của ứng dụng Wetry để đăng nhập vào tài khoản Weibo
+>4. Vui lòng tham khảo [Video hướng dẫn](#video) liên quan
+>5. Đăng nhập tài khoản Zhihu theo cách tương tự
+
 
 #### Tải xuống từ địa phương
 
