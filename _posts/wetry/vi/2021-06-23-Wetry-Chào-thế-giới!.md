@@ -40,7 +40,8 @@ author: JackeyD-vi
 ***
 > ## Video
 > #### Video hướng dẫn sử dụng Wetry
-> - [Đăng nhập Weibo bằng cách quét mã](https://youtu.be/2YK04Bupfi4)
+> - [Quét mã QR để đăng nhập Weibo](https://youtu.be/2YK04Bupfi4)
+> - [Quét mã QR để đăng nhập Weibo International Edition](https://youtu.be/UJYDOv8lC6w)
 >
 > #### Các bài hướng dẫn liên quan khác (không phải do mình đăng)
 > - Video hướng dẫn đăng ký Weibo

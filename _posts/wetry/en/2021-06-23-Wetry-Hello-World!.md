@@ -39,6 +39,7 @@ author: JackeyD
 
 > #### Wetry app official video tutorial
 > - [Scan the QR code to log in to Weibo](https://youtu.be/48Dn4JsIVH0)
+> - [Scan the QR code to log in to Weibo International Edition](https://youtu.be/s7E0ysIDMDc)
 >
 
 
