@@ -12,10 +12,11 @@ author: JackeyD
 >
 >Follow and Comment functions need to log in to Weibo and Zhihu accounts:
 >1. It is best to download and install the WeChat app first, and then register a WeChat account
->2. Log in to Weibo app through WeChat account
->3. In the Weibo app, scan the Wetry app QR code to log in to the Weibo account
->4. Please refer to related [Tutorial Video](#wetry-app-official-video-tutorial)
->5. Log in Zhihu account in the same way
+>2. There are two versions of the Weibo app, it is best to use the version with a yellow background icon.(The icon on the white background is the international version, not recommended)
+>3. Log in to Weibo app through WeChat account
+>4. In the Weibo app, scan the Wetry app QR code to log in to the Weibo account
+>5. Please refer to related [Tutorial Video](#wetry-app-official-video-tutorial)
+>6. Log in Zhihu account in the same way
 
 
 #### Download local

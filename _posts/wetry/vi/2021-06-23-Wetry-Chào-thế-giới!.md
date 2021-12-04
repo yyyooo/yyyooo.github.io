@@ -14,10 +14,11 @@ author: JackeyD-vi
 >
 >Chức năng theo dõi và bình luận cần đăng nhập tài khoản Weibo và Zhihu:
 >1. Tốt nhất là tải xuống và cài đặt ứng dụng WeChat trước, sau đó đăng ký tài khoản WeChat
->2. Đăng nhập vào ứng dụng Weibo thông qua tài khoản WeChat
->3. Trong ứng dụng Weibo, quét mã QR của ứng dụng Wetry để đăng nhập vào tài khoản Weibo
->4. Vui lòng tham khảo [Video hướng dẫn](#video) liên quan
->5. Đăng nhập tài khoản Zhihu theo cách tương tự
+>2. Có hai phiên bản của ứng dụng Weibo, tốt nhất bạn nên sử dụng phiên bản có biểu tượng nền màu vàng. (Biểu tượng trên nền trắng là phiên bản quốc tế, không khuyến khích)
+>3. Đăng nhập vào ứng dụng Weibo thông qua tài khoản WeChat
+>4. Trong ứng dụng Weibo, quét mã QR của ứng dụng Wetry để đăng nhập vào tài khoản Weibo
+>5. Vui lòng tham khảo [Video hướng dẫn](#video) liên quan
+>6. Đăng nhập tài khoản Zhihu theo cách tương tự
 
 
 #### Tải xuống từ địa phương
