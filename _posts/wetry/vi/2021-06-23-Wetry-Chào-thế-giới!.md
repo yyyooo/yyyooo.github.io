@@ -4,13 +4,19 @@ category: Wetry vi
 author: JackeyD-vi
 ---
 
->Tham gia nhóm và giao tiếp với nhau:
+# Ứng dụng Wetry
+
+## Thông tin liên hệ
+> [Địa chỉ email yyyhelloa@outlook.com](mailto:yyyhelloa@outlook.com)
 >
 > [Zalo Group (Bấm để tham gia)](https://zalo.me/g/zzhfef803)
 >
 > [Facebook Group (Bấm để tham gia)](https://www.facebook.com/groups/170677295004176/)
 >
->Chỉ cần [tải xuống và cài đặt ứng dụng Wetry](#tải-xuống-từ-địa-phương), bạn có thể duyệt nội dung Weibo và Zhihu trong ứng dụng Wetry (được dịch tự động, không cần đăng nhập Weibo và Zhihu)
+
+
+## Thông tin ứng dụng
+>Chỉ cần [tải xuống và cài đặt ứng dụng Wetry](#tải-xuống-từ-địa-phương), bạn có thể duyệt nội dung Weibo, Zhihu và Douyin thông qua Wetry App (dịch tự động, không cần đăng nhập Weibo, Zhihu và Douyin)
 >
 >Chức năng theo dõi và bình luận cần đăng nhập tài khoản Weibo và Zhihu:
 >1. Tốt nhất là tải xuống và cài đặt ứng dụng WeChat trước, sau đó đăng ký tài khoản WeChat
