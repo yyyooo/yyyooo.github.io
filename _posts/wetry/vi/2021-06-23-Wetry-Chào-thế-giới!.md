@@ -13,6 +13,9 @@ author: JackeyD-vi
 >
 > [Facebook Group (Bấm để tham gia)](https://www.facebook.com/groups/170677295004176/)
 >
+> Tên công ty: Wetry
+>
+> Địa chỉ: 135 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh
 
 
 ## Thông tin ứng dụng
