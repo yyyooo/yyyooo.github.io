@@ -7,7 +7,7 @@ author: JackeyD-vi
 # Ứng dụng Wetry
 
 ## Thông tin liên hệ
-> [Địa chỉ email yyyhelloa@outlook.com](mailto:yyyhelloa@outlook.com)
+> [Địa chỉ email: yyyhelloa@outlook.com](mailto:yyyhelloa@outlook.com)
 >
 > [Zalo Group (Bấm để tham gia)](https://zalo.me/g/zzhfef803)
 >
