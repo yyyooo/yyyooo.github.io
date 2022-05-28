@@ -13,7 +13,7 @@ author: JackeyD-vi
 >
 > Tên công ty: Wetry
 >
-> Địa chỉ: 135 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh
+> Địa chỉ: 12 Alexandre de Rhodes, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh
 
 
 ## Thông tin ứng dụng
