@@ -12,8 +12,6 @@ author: JackeyD-vi
 > [Zalo Group (Bấm để tham gia)](https://zalo.me/g/zzhfef803)
 >
 > Tên công ty: Wetry
->
-> Địa chỉ: 12 Alexandre de Rhodes, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh
 
 
 ## Thông tin ứng dụng
