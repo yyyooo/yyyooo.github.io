@@ -7,15 +7,10 @@ author: JackeyD-vi
 # Ứng dụng Wetry
 
 ## Thông tin liên hệ
-> [Địa chỉ email: yyyhelloa@outlook.com](mailto:yyyhelloa@outlook.com)
->
 > [Zalo Group (Bấm để tham gia)](https://zalo.me/g/zzhfef803)
 >
 > [Facebook Group (Bấm để tham gia)](https://www.facebook.com/groups/170677295004176/)
 >
-> Tên công ty: Wetry
->
-> Địa chỉ: 135 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh
 
 
 ## Thông tin ứng dụng
